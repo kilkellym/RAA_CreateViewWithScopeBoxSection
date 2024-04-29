@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_ScopeBoxTest - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>RAA_ScopeBoxTest\RAA_ScopeBoxTest.dll</Assembly>
+    <FullClassName>RAA_ScopeBoxTest.Command1</FullClassName>
+    <ClientId>22f568de-f01c-4a16-a262-280a7235ed4b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
